@@ -26,3 +26,5 @@ SQL Server (pyodbc)
 or SQLite (sqlite3)
 
 Automatically creates the table if it doesn't exist
+
+![architecture](./Architecture.PNG)
