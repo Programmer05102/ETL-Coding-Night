@@ -1,4 +1,5 @@
 🚀 What This ETL Pipeline Does
+
 1️⃣ Extract
 
 Uses Selenium WebDriver to open a webpage
@@ -22,8 +23,6 @@ Normalizes and formats all extracted fields
 Loads the cleaned dataset into:
 
 SQL Server (pyodbc)
-
-or SQLite (sqlite3)
 
 Automatically creates the table if it doesn't exist
 
